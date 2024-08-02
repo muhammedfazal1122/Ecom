@@ -1,0 +1,13 @@
+.main{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    height: 6em;
+    padding: 1.5em;
+    justify-content: left;
+    color: aquamarine;
+    border: 2px;
+    border-color: azure;
+
+}
